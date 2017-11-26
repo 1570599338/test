@@ -12,6 +12,7 @@ public class Test {
 		
 		String aa = "AAAAAA";
 		int b=0;
+		int c=0;
 		
 		
 
