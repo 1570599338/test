@@ -11,6 +11,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		String aa = "AAAAAA";
+		int b=0;
 		
 		
 
